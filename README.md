@@ -1,4 +1,4 @@
-# 🚀 Time Hash Code (THC) v1.0.1  
+# 🚀 Time Hash Code (THC)
 
 ## ❓ What is THC?  
 **Time Hash Code (THC)** is an Apple Shortcut designed to quickly generate unique IDs based on the current date and time. It uses the **MD5 hashing algorithm** to create these IDs.  
@@ -27,8 +27,7 @@ Use this unique ID in various scenarios, such as:
 Follow these steps to set up THC on your iPhone:  
 
 1. **📥 Import the Shortcut:**  
-   Download and add the shortcut to your Siri Shortcuts app:  
-https://www.icloud.com/shortcuts/89b130141eeb4d4fb833327185ef27aa
+   Go to the **Releases** section of this repository to find the download link for the shortcut. Once downloaded, add it to your Siri Shortcuts app.  
 
 2. **🎛️ Set Up Action Button (Optional):**  
    If your iPhone has an Action Button, configure it for quick access:  
