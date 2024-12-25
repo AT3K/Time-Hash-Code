@@ -35,4 +35,17 @@ Follow these steps to set up THC on your iPhone:
 
 ---
 
+## ✨ Customizing the Length of the ID  
+You can configure the number of characters for the generated unique ID. By default, THC generates a 10-character ID, but you can customize this up to a maximum of **32 characters**.  
+
+To adjust the length:  
+1. Open **Shortcuts**.  
+2. Find **Time Hash Code (THC)**.  
+3. **Hold** the shortcut and select **Edit**.  
+4. Scroll down to the comment that says:  
+   **‘Change the "10" below if you want a longer string. Maximum is 32.’**  
+5. Modify the **"10"** to your desired length (between 10 and 32 characters).
+
+---
+
 🎉 Enjoy the simplicity and functionality of **Time Hash Code (THC)**!  
