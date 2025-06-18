@@ -1,5 +1,7 @@
 # 🚀 Time Hash Code (THC)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8095f04461c14462baed69b768f42b7f)](https://app.codacy.com/gh/AT3K/Time-Hash-Code?utm_source=github.com&utm_medium=referral&utm_content=AT3K/Time-Hash-Code&utm_campaign=Badge_Grade)
+
 ## ❓ What is THC?  
 **Time Hash Code (THC)** is an Apple Shortcut designed to quickly generate unique IDs based on the current date and time. It uses the **MD5 hashing algorithm** to create these IDs.  
 
